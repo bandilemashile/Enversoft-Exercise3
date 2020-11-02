@@ -1,2 +1,2 @@
 # Enversoft-Exercise3
-Web API with SQL database
+Web API application with SQL database
