@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesApp", "SalesApp\SalesApp.csproj", "{6813951A-76AE-478D-9561-C52C593CEF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupplierData", "SupplierData\SupplierData.csproj", "{7660814B-ADC8-4A4C-9D3A-B3099E28AD79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6813951A-76AE-478D-9561-C52C593CEF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6813951A-76AE-478D-9561-C52C593CEF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6813951A-76AE-478D-9561-C52C593CEF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6813951A-76AE-478D-9561-C52C593CEF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7660814B-ADC8-4A4C-9D3A-B3099E28AD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7660814B-ADC8-4A4C-9D3A-B3099E28AD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7660814B-ADC8-4A4C-9D3A-B3099E28AD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7660814B-ADC8-4A4C-9D3A-B3099E28AD79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D60E8E26-E5AE-4A94-A66C-4F82DFCAED3C}
+	EndGlobalSection
+EndGlobal
