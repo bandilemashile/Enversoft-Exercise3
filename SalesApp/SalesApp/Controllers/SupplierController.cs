@@ -20,7 +20,7 @@ namespace SalesApp.Controllers
         {
             using (SupplierEntities1 entities1 = new SupplierEntities1())
             {
-               return entities1.tblSuppliers.ToList();
+                return entities1.tblSuppliers.ToList();
             }
         }
 
