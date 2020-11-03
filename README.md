@@ -5,10 +5,10 @@ Web API application with SQL database
 
 
 
-Can search for record using id in url localhost:50189/api/Supplier/3
+Can search for record using id in url localhost:50189/api/Supplier/2
 
 
-(3 = record id in database)
+(2 = record id in database)
 
 
 ![Test Image 5](Search-Page.JPG)
