@@ -1,16 +1,7 @@
 # Enversoft-Exercise3
 Web API application with SQL database
 
- ASP .Net Web API
 
-
- MY-SQL Database
-
-
-Ado .Net Entity Framework
-
-
-Class Library
 
 
 
